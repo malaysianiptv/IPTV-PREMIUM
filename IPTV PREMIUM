@@ -72,9 +72,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 http://iptv12k.com:35461/167121748/976890/4353
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/4ufknwmc
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/158347
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
