@@ -832,6 +832,42 @@ https://astro3.rastream.com/astro-goxuan
 
 
 
-###########################################################################################################################################################
+########################################################### MUSIC  ################################################################################################
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Spankin\'New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",AmoyHouseRelax
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="MUSIC",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MUSIC HIT
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="MUSIC",POP Music
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mola.ID" tvg-logo="https://i.ibb.co/P5y4bx0/Mola-logo-2021.png" group-title="MUSIC",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/db3J7xh/1-music-channel-logo-FB300-DCF9-A-seeklogo-com.png" group-title="MUSIC",1 Music
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1  tvg-id="mtv-rus" group-title="MUSIC" tvg-logo="https://i.imgur.com/Lqhy44V.png",MTV Block Party 
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1  tvg-id="mtv-rus" group-title="MUSIC" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
