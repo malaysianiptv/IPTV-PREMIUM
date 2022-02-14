@@ -66,11 +66,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:network-caching=333
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://iptv12k.com:35461/167121748/976890/4353
-http://urtv.cc:80/454781209544/431009674535/9031
+https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037660
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/158347
@@ -100,10 +96,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157489
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:network-caching=333
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://iptv12k.com:35461/167121748/976890/4313
+https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037662
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
 http://urtv.cc:80/454781209544/431009674535/6740
@@ -186,9 +179,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 http://foctv.xyz:25510/Imrany/BB1732/420
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goldentv.tech:25461/rachman/rachman/25010
+https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037746
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -196,9 +187,7 @@ http://goldentv.tech:25461/rachman/rachman/25010
 http://iptv12k.com:35461/167121748/976890/656
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goldentv.tech:25461/rachman/rachman/25011
+https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037747
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -206,9 +195,7 @@ http://goldentv.tech:25461/rachman/rachman/25011
 http://iptv12k.com:35461/167121748/976890/655
 
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goldentv.tech:25461/rachman/rachman/25012
+https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037748
 
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -216,9 +203,7 @@ http://goldentv.tech:25461/rachman/rachman/25012
 http://iptv12k.com:35461/167121748/976890/654
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goldentv.tech:25461/rachman/rachman/25015
+https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037749
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
