@@ -1072,7 +1072,7 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34514?token=TURYAhZYEAwSXQIBCVcC
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MIX CHANNEL", Moviehub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="MIX CHANNELS",Movies Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="MIX CHANNEL",Movies Mix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="MIX CHANNEL", Discovery Turbo 
@@ -1083,6 +1083,8 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcC
 
 
 ######################################  CHINA COUNTRY   ########################################################
+
+
 
 
 
@@ -1173,9 +1175,6 @@ http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=
 #EXTINF:-1 tvg-id=59 tvg-name= tvg-logo= group-title="CHINA COUNTRY",✨丸子✨经典国产大片，24小时看不停
 http://tx2play1.douyucdn.cn/live/8986148ruX1Bn8o2.xs?uuid=
 
-#EXTINF:-1 tvg-id=78 tvg-name= tvg-logo= group-title="CHINA COUNTRY",[兔兔陪看]爱笑的撸猫主播
-http://tx2play1.douyucdn.cn/live/1504768rsnZud2Gv.xs?uuid=
-
 #EXTINF:-1 tvg-id=80 tvg-name= tvg-logo= group-title="CHINA COUNTRY",❤️可乐❤️电影 欧美 科幻 经典
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs?uuid=
 
@@ -1197,7 +1196,10 @@ http://tx2play1.douyucdn.cn/live/74374rxBWPJfW7Gd.xs?uuid=
 
 
 
+
 ########################################### IPFOX WORLD  ##########################################################################
+
+
 
 
 
