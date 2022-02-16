@@ -787,73 +787,76 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
 
+
 ##########################################################   BACKUP CHANNEL - NEED VPN  ####################################################################
 
 
 
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png",Awesome TV
+
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png",Awesome TV
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png",RIA 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png",RIA 
 http://iptv.tvmalaysia.cc:80/297340/297340/9031
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png",ASTRO Prima
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png",ASTRO Prima
 http://iptv.tvmalaysia.cc:80/297340/297340/6727
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png",ASTRO Warna
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png",ASTRO Warna
 http://iptv.tvmalaysia.cc:80/297340/297340/6740
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png",Astro Citra 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png",Astro Citra 
 http://iptv.tvmalaysia.cc:80/297340/297340/7267
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png",ASTRO Oasis
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png",ASTRO Oasis
 http://iptv.tvmalaysia.cc:80/297340/297340/6725
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png",ASTRO Rania
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png",ASTRO Rania
 http://iptv.tvmalaysia.cc:80/297340/297340/6729
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png",ASTRO Ceria 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png",ASTRO Ceria 
 http://iptv.tvmalaysia.cc:80/297340/297340/6715
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png",Animax
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png",Animax
 http://iptv.tvmalaysia.cc:80/297340/297340/6696
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png",TV-AlHijrah
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png",TV-AlHijrah
 http://iptv.tvmalaysia.cc:80/297340/297340/6834
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png",ASTRO Arena 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png",ASTRO Arena 
 http://iptv.tvmalaysia.cc:80/297340/297340/6707
 
-#EXTINF:-1 group-title="LIVE | SPORTS",ASTRO Arena 2
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN",ASTRO Arena 2
 http://iptv.tvmalaysia.cc:80/297340/297340/9028
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png",ASTRO Supersport 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png",ASTRO Supersport 
 http://iptv.tvmalaysia.cc:80/297340/297340/6708
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png",ASTRO Supersport ALT
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png",ASTRO Supersport ALT
 http://iptv.tvmalaysia.cc:80/297340/297340/9024
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png",ASTRO Supersport 2
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png",ASTRO Supersport 2
 http://iptv.tvmalaysia.cc:80/297340/297340/6710
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png",ASTRO Supersport 2 ALT
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png",ASTRO Supersport 2 ALT
 http://iptv.tvmalaysia.cc:80/297340/297340/9025
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png",ASTRO Supersport 3
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png",ASTRO Supersport 3
 http://iptv.tvmalaysia.cc:80/297340/297340/6711
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png",ASTRO Supersport 3 ALT
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png",ASTRO Supersport 3 ALT
 http://iptv.tvmalaysia.cc:80/297340/297340/9020
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png",ASTRO Supersport 4
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png",ASTRO Supersport 4
 http://iptv.tvmalaysia.cc:80/297340/297340/6712
 
-#EXTINF:-1 group-title="LIVE | SPORTS" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",ASTRO Supersport 4 ALT
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",ASTRO Supersport 4 ALT
 http://iptv.tvmalaysia.cc:80/297340/297340/9026
 
-#EXTINF:-1 group-title="LIVE | SPORTS",Astro Supersport 5
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN",Astro Supersport 5
 http://iptv.tvmalaysia.cc:80/297340/297340/9029
+
 
 
 
