@@ -836,7 +836,7 @@ http://iptv.tvmalaysia.cc:80/297340/297340/6729
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png",ASTRO Ceria 
 http://iptv.tvmalaysia.cc:80/297340/297340/6715
 
-#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png",ASTRO AEC 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png",ASTRO AEC 
 http://iptv.tvmalaysia.cc:80/297340/297340/6701
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png",Animax
