@@ -815,7 +815,7 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png",Awesome TV
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
 
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png",RIA 
+#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png",ASTRO Ria 
 http://iptv.tvmalaysia.cc:80/297340/297340/9031
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png",ASTRO Prima
@@ -835,6 +835,9 @@ http://iptv.tvmalaysia.cc:80/297340/297340/6729
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png",ASTRO Ceria 
 http://iptv.tvmalaysia.cc:80/297340/297340/6715
+
+#EXTINF:-1 group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png",ASTRO AEC 
+http://iptv.tvmalaysia.cc:80/297340/297340/6701
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png",Animax
 http://iptv.tvmalaysia.cc:80/297340/297340/6696
