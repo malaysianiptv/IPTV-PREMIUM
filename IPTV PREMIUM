@@ -2,8 +2,8 @@
 
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="WELCOME TO SR LEGACY CHANNEL",COVID19 UPDATE
-https://api.mbed.cc/ytlive.m3u8?id=NMre6IAAAiU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="WELCOME TO SR LEGACY CHANNEL",SR Legacy TV
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
@@ -99,12 +99,13 @@ https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",106 Astro Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO",106 Astro Oasis ALT 
-https://my.odtv.uk:443/live/9486331171/7860879594/17.ts
+#https://my.odtv.uk:443/live/9486331171/7860879594/17.ts
 #http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71021.ts
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:network-caching=333
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+https://tinyurl.com/2r8sj43a
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
 https://my.odtv.uk:443/live/9486331171/7860879594/18.ts
@@ -117,14 +118,14 @@ http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#https://tinyurl.com/3znr6zkb
-http://foctv.xyz:25510/Imrany/BB1732/27
+https://tinyurl.com/5dtard3b
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 #http://iptv12k.com:35461/167121748/976890/721
-http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
+#http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
+http://foctv.xyz:25510/Imrany/BB1732/27
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -134,8 +135,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCeria" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria ALT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-https://my.odtv.uk:443/live/9486331171/7860879594/99.ts
+#https://my.odtv.uk:443/live/9486331171/7860879594/99.ts
 #http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71080.ts
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:network-caching=333
+https://tinyurl.com/msjfymr2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
@@ -1041,6 +1045,154 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1  tvg-id="mtv-rus" group-title="MUSIC" tvg-logo="https://i.imgur.com/hKFctz9.png",MTV Biggest POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
+
+#########################################################  MIX CHANNEL  ########################################################################################
+
+#EXTINF:-1 tvg-id="GlobalGotTalent.us" tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="MIX CHANNEL",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="MIX CHANNEL",A&E 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="MIX CHANNEL",HauntTV 
+https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="MIX CHANNEL",Dark Matter TV 
+https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="MIX CHANNEL",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MIX CHANNEL",Prima Tv
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="MIX CHANNEL", Zee Cinema 
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34514?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MIX CHANNEL", Moviehub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="MIX CHANNELS",Movies Mix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="MIX CHANNEL", Discovery Turbo 
+http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
+
+
+
+
+######################################  CHINA COUNTRY   ########################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 1
+http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 2
+http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 3
+http://39.135.34.132:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 4
+http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 5
+http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 6
+http://39.135.34.132:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 7
+http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 8
+http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 9
+http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 10
+http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 11
+http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 12
+http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 13
+http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 14
+http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 15
+http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
+
+#EXTINF:-1 tvg-id=1 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【特辑】精彩大片，欢迎品鉴 
+http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.xs?uuid=
+
+#EXTINF:-1 tvg-id=6 tvg-name= tvg-logo= group-title="CHINA COUNTRY",✨神乐✨华语 经典 电影 沈腾 周星驰 
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs?uuid=
+
+#EXTINF:-1 tvg-id=9 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【女神金】60帧 极致蓝光 刀刀陪看 
+http://tx2play1.douyucdn.cn/live/747764rr7m3QcnAb.xs?uuid=
+
+#EXTINF:-1 tvg-id=10 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【片片】片荒的时候看片片 
+http://tx2play1.douyucdn.cn/live/4258555r3isvDdlq.xs?uuid=
+
+#EXTINF:-1 tvg-id=12 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【RM-点播】点播！模式-24H欢乐不断 
+http://tx2play1.douyucdn.cn/live/131977rb5GOrl6uS.xs?uuid=
+
+#EXTINF:-1 tvg-id=15 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【香港赌片】喜剧、黑帮、动作、武侠、经典 
+http://tx2play1.douyucdn.cn/live/315457rGxEJOfxKX.xs?uuid=
+
+#EXTINF:-1 tvg-id=16 tvg-name= tvg-logo= group-title="CHINA COUNTRY",范闲4K超清、下饭神剧
+http://tx2play1.douyucdn.cn/live/9633542rbLimoelF.xs?uuid=
+
+#EXTINF:-1 tvg-id=19 tvg-name= tvg-logo= group-title="CHINA COUNTRY",❤️怡寳❤️  国民女友陪看 
+http://tx2play1.douyucdn.cn/live/434971r3ZA8dMt4g.xs?uuid=
+
+#EXTINF:-1 tvg-id=30 tvg-name= tvg-logo= group-title="CHINA COUNTRY",「橙幕」「最人气港剧直播间」 
+http://tx2play1.douyucdn.cn/live/4549169rv4OKGN7X.xs?uuid=
+
+#EXTINF:-1 tvg-id=32 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【周末】速进！新片放映中！
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.xs?uuid=
+
+#EXTINF:-1 tvg-id=34 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【恐怖影厅】胆小勿入 
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs?uuid=
+
+#EXTINF:-1 tvg-id=38 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【贝贝】军旅 喜剧 动作 意大利炮 
+http://tx2play1.douyucdn.cn/live/431460rLgfswXoER.xs?uuid=
+
+#EXTINF:-1 tvg-id=46 tvg-name= tvg-logo= group-title="CHINA COUNTRY",✨周星驰✨星爷 华语 经典 电影 神乐 
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=
+
+#EXTINF:-1 tvg-id=59 tvg-name= tvg-logo= group-title="CHINA COUNTRY",✨丸子✨经典国产大片，24小时看不停
+http://tx2play1.douyucdn.cn/live/8986148ruX1Bn8o2.xs?uuid=
+
+#EXTINF:-1 tvg-id=78 tvg-name= tvg-logo= group-title="CHINA COUNTRY",[兔兔陪看]爱笑的撸猫主播
+http://tx2play1.douyucdn.cn/live/1504768rsnZud2Gv.xs?uuid=
+
+#EXTINF:-1 tvg-id=80 tvg-name= tvg-logo= group-title="CHINA COUNTRY",❤️可乐❤️电影 欧美 科幻 经典
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs?uuid=
+
+#EXTINF:-1 tvg-id=89 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【小宇60帧】科幻 动作 喜剧 电影 
+http://tx2play1.douyucdn.cn/live/323876rVG9fNP17E.xs?uuid=
+
+#EXTINF:-1 tvg-id=98 tvg-name= tvg-logo= group-title="CHINA COUNTRY",❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻 
+http://tx2play1.douyucdn.cn/live/263824rY7r7Ykt7m.xs?uuid=
+
+#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【小鸽陪看】华语热门影视剧 
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs?uuid=
+
+#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="CHINA COUNTRY",【小鸽陪看】华语热门影视剧 
+http://tx2play1.douyucdn.cn/live/3439096ry0WJOkug.xs?uuid
+
+#EXTINF:-1 tvg-id=115 tvg-name= tvg-logo= group-title="CHINA COUNTRY",❤️冰冰❤️恐怖/经典/搞笑陪你一起
+http://tx2play1.douyucdn.cn/live/74374rxBWPJfW7Gd.xs?uuid=
 
 
 
