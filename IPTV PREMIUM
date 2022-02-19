@@ -1245,61 +1245,8 @@ http://tx2play1.douyucdn.cn/live/74374rxBWPJfW7Gd.xs?uuid=
 
 
 #EXTINF:-1, group-title="THAILAND",BBTV Channel 7
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
-https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/chunklist_Fuso_Uhd.m3u8
-https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/4
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/thaipbs/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/5
-
 #EXTINF:-1, group-title="THAILAND",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/24
-https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/10
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/true4u/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/11
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/12
-https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/ch8/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/13
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/onehd/chunklist_Fuso_Uhd.m3u8
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/thairath/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/17
-https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/18
-https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/19
-https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
-
-#EXTINF:-1,group-title="THAILAND",#http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_Fuso_Uhd.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/21
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-
 #EXTINF:-1, group-title="THAILAND",DLTV 1
 https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
 #EXTINF:-1, group-title="THAILAND",DLTV 2
