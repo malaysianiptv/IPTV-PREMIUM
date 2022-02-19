@@ -85,6 +85,10 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/3615
 #https://my.odtv.uk:443/live/9486331171/7860879594/13.ts
 http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1705
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 2
+#https://my.odtv.uk:443/live/9486331171/7860879594/13.ts
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -215,6 +219,9 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/1379
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 http://foctv.xyz:25510/Imrany/BB1732/420
 
+#EXTINF:-1 tvg-id="802" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astrox Arena 2 Backup 2
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759568.ts
+
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1
 #https://my.odtv.uk:443/live/9486331171/7860879594/126.ts
 http://103.30.87.238:443/gdsgdg/dgdgegye/1091
@@ -223,6 +230,9 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/1091
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv12k.com:35461/167121748/976890/656
+
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 2
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759560.ts
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2
 #https://my.odtv.uk:443/live/9486331171/7860879594/127.ts
@@ -233,6 +243,9 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/1092
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv12k.com:35461/167121748/976890/655
 
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 2
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759561.ts
+
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3
 #https://my.odtv.uk:443/live/9486331171/7860879594/128.ts
 http://103.30.87.238:443/gdsgdg/dgdgegye/1096
@@ -241,6 +254,9 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/1096
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv12k.com:35461/167121748/976890/654
+
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 2
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759562.ts
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4
 #https://my.odtv.uk:443/live/9486331171/7860879594/129.ts
@@ -251,6 +267,9 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/1135
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://iptv12k.com:35461/167121748/976890/653
 
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 2
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759563.ts
+
 #EXTINF:-1 tvg-id="815" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5
 #https://my.odtv.uk:443/live/9486331171/7860879594/130.ts
 http://103.30.87.238:443/gdsgdg/dgdgegye/1365
@@ -259,6 +278,9 @@ http://103.30.87.238:443/gdsgdg/dgdgegye/1365
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://foctv.xyz:25510/Imrany/BB1732/413
+
+#EXTINF:-1 tvg-id="815" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5 ALT 2
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759576.ts
 
 
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORT",Red Bull TV
