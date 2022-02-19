@@ -1132,8 +1132,6 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcC
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA COUNTRY",CCTV 1
 http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
 
@@ -1243,7 +1241,42 @@ http://tx2play1.douyucdn.cn/live/74374rxBWPJfW7Gd.xs?uuid=
 
 
 
+#################################################################  THAILAND #########################################################################################
 
-###################################################################################################################################################################
+=========== THAILAND =========
+
+#EXTINF:-1, DLTV 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:-1, DLTV 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:-1, DLTV 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:-1, DLTV 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:-1, DLTV 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+#EXTINF:-1, DLTV 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:-1, DLTV 7
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:-1, DLTV 8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:-1, DLTV 9
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:-1, DLTV 10
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:-1, DLTV 11
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:-1, DLTV 12
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:-1, DLTV 13
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:-1, DLTV 14
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:-1, DLTV 15
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+
+
+
 ###################################################################################################################################################################
 
