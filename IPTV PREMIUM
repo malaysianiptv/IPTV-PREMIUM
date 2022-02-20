@@ -3,11 +3,9 @@
 
 
 
-#EXTM3U url-tvg=https://macan.tv/xmltv.php?username=epg&password=epg
-
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml"
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U
+url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="WELCOME TO SR LEGACY CHANNEL",SR Legacy TV
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
