@@ -462,9 +462,14 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #https://wopep.com/02_PremierHD5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest?cb=20180806112549" group-title="SPORT",  Star Sports Select 1 HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCJJ8w0UnOBHGfeE_wO39eJVBXjl1ZVu0NFBPq7QfRoLTx0uULdv951Cr4VuxhfsKzAE&usqp=CAU" group-title="SPORT",  Star Sports Select 2 HD
+http://live.flixhub.net/hls/select2.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS PREMIUM",  Sony Six HD
+http://live.flixhub.net/hls/sonysix.m3u8
 
 
 
@@ -544,7 +549,8 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="MOVIES",  MNX HD
+http://live.flixhub.net/hls/mnx-hd.m3u8
 
 
 
@@ -1474,6 +1480,38 @@ https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1, group-title="THAILAND",DLTV 15
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://f.ptcdn.info/186/026/000/1417615175-ThaiPBS201-o.png",ThaiPBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png",TPTV
+http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png",TNN16
+http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png",NationTV
+http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://image.bangkokbiznews.com/image/kt/media/image/news/2019/11/12/854341/750x422_854341_1573566062.jpg",workpoint
+http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://www.true4u.com/images/true4u.jpg",True4u
+http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",GMM25
+http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ONEHD
+http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://9oog.com/wp-content/uploads/2020/05/Thairath_TV_Logo.svg_.png",ThairathTV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",CH3
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+
 
 
 
