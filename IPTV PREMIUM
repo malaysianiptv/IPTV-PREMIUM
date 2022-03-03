@@ -206,6 +206,9 @@ http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1705
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 2
 https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 3
+http://wanicelife.com:8880/SWFAF1231293/XTGE495U/1705
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -216,8 +219,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="AstroPrima" ch-number="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="ASTRO",105 Astrox Prima ALT
-#http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71020.ts
-http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/71020
+http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71020.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -242,6 +244,9 @@ http://urtv.cc:80/454781209544/431009674535/6740
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 2
 http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 3
+http://wanicelife.com:8880/SWFAF1231293/XTGE495U/1706
+
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra
 http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/71146
 
@@ -249,10 +254,8 @@ http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/71146
 http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 2
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:network-caching=333
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/5dtard3b
+http://wanicelife.com:8880/SWFAF1231293/XTGE495U/71146
+
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astrox Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
