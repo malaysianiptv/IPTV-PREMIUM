@@ -350,6 +350,9 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759560.ts
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 3
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/287306
 
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/146068?play_token=jHmYl8WHPK
+
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2
 #https://my.odtv.uk:443/live/9486331171/7860879594/127.ts
 http://203.154.243.89:21202/nakhon
@@ -365,6 +368,9 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759561.ts
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 3
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/287305
+
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 4
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157556?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3
 #https://my.odtv.uk:443/live/9486331171/7860879594/128.ts
@@ -382,6 +388,9 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759562.ts
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 3
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/287304
 
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 4
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157557?play_token=jHmYl8WHPK
+
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4
 #https://my.odtv.uk:443/live/9486331171/7860879594/129.ts
 http://203.154.243.89:21204/nakhon
@@ -397,6 +406,9 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759563.ts
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 3
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/287303
+
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
+http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/157558?play_token=jHmYl8WHPK
 
 #EXTINF:-1 tvg-id="815" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5
 #https://my.odtv.uk:443/live/9486331171/7860879594/130.ts
