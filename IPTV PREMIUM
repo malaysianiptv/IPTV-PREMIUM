@@ -261,8 +261,6 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria
 https://tinyurl.com/47ef5b4z
 
@@ -285,6 +283,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="AstroPrima" ch-number="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="ASTRO",105 Astrox Prima ALT
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71020
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -367,13 +366,9 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 
 
-
-
 #####################################################################################################################################################################################
 ###################################################################  SPORT  #########################################################################################################
 #####################################################################################################################################################################################
-
-
 
 
 
