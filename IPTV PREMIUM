@@ -377,14 +377,15 @@ http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71145.ts
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
-#EXTINF:-1 tvg-id="AstroAwani" ch-number:"AstroAwani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
+#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="News" tvg-logo="https://iili.io/1NnYcN.png",501 Astrox Awani
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
 #EXTINF:-1 tvg-id="MAKKAH TV" ch-number="MAKKAH TV" tvg-logo="https://i.pinimg.com/736x/17/ff/64/17ff64a29d2d21ddb4c6b89e4fd0613c.jpg" group-title="ASTRO",MAKKAH TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
 
