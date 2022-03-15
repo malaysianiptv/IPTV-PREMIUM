@@ -194,6 +194,8 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+
+
 #########################################################     WELCOME TO SR LEGACY CHANNEL     ######################################################################
 
 
@@ -218,7 +220,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RTMK01" tvg-name="TV1" group-title="Malay" tvg-logo="https://iili.io/1NKFDv.png",101 TV1 
+#EXTINF:-1 tvg-id="RTMK01" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 #EXTINF:-1 group-title="MYFREEVIEW" tvg-id="TV2" tvg-chno="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
@@ -294,24 +296,24 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="Malay" tvg-logo="https://iili.io/1Nft6B.png",105 Astrox Prima
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="Malay" tvg-logo="https://iili.io/1Nft6B.png",105 Astrox Prima ALT
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima ALT
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71020
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="Malay" tvg-logo="https://iili.io/1Nfma1.png",106 Astrox Oasis 
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astrox Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="Malay" tvg-logo="https://iili.io/1Nfma1.png",106 Astrox Oasis ALT
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astrox Oasis ALT
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1701
 
 
@@ -342,34 +344,36 @@ http://mvu03.wanicelife.com:8880/live/SFL123592/J7JTK50R/171146.ts
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71146
 
 
-#EXTINF:-1 tvg-id="AstroCeria" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astrox Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroCeria" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astrox Ceria ALT 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71080
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="Malay" tvg-logo="https://iili.io/1Nq3nR.png",112 Astrox Rania 
+#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astrox Rania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="Malay" tvg-logo="https://iili.io/1Nq3nR.png",112 Astrox Rania ALT
+#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astrox Rania ALT
 #http://urtv.cc:80/454781209544/431009674535/6729
 http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71144.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
-#EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="Malay" tvg-logo="https://iili.io/1NqK6N.png",113 Astrox Aura 
+#EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astrox Aura 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
-#EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="Malay" tvg-logo="https://iili.io/1NqK6N.png",113 Astrox Aura ALT
+#EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astrox Aura ALT
 #http://urtv.cc:80/454781209544/431009674535/6713
 http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71145.ts
 
@@ -378,7 +382,7 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
-#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="News" tvg-logo="https://iili.io/1NnYcN.png",501 Astrox Awani
+#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 
@@ -1680,6 +1684,8 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+
 
 
 
