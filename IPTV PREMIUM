@@ -858,7 +858,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cb7eb2b786d7587318c42b37e3e5510:fcc2c6e8adf5418e35382f77e5ad56ec
-#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",511 CNN 
+#EXTINF:-1 tvg-id="511" tvg-name="CNN HD" group-title="NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",511 CNN 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 
@@ -871,13 +871,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="AXN" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" ch-number="701",701 AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
+#KODIPROP:inputstream.adaptive.license_key=b7f352ff63e533f3baa950d7e2497410:e11de6f5f84bbd2f150ffc82191880e8
+#EXTINF:-1 tvg-id="701" tvg-name="AXN HD" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",701 AXN
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" ch-number="714",714 Crime & Investigation 
@@ -986,15 +982,18 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil 
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="AstroVinmeenHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="INDIAN",202 Astro Vinmeen  
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-id="ColorsHD" ch-number="ColorsHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="INDIAN",116 Colors Hindi 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1067,13 +1066,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
-#EXTINF:-1 tvg-id="TVBClassic" ch-number="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="CHINESE",305 TVB Classic 
+#KODIPROP:inputstream.adaptive.license_key=9481ab597f06bb7fa40cb2364c126210:f2b4b15da2544303c44d3ca0b16d3de8
+#EXTINF:-1 tvg-id="305" tvg-name="TVB Classic" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="CHINESE",307 Astro Shuang Xing 
+#KODIPROP:inputstream.adaptive.license_key=2019dd03e75adfc2f58ec94eff26d810:79dc64991db24e051b3cb7b39e59e8c3
+#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png",307 Astro Shuang Xing
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
