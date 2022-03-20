@@ -530,7 +530,8 @@ http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/287303
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1719
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-id="815" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5
 #https://my.odtv.uk:443/live/9486331171/7860879594/130.ts
 #https://iptv.lancartech.co.id:8443/live/kumon/kumon/89977.ts
