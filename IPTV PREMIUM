@@ -587,42 +587,30 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://ih1.redbubble.net/image.917637560.5551/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="SPORT",UFC
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport" group-title="SPORT" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#EXTINF:-1 tvg-id="True Sport 1" tvg-name="True Sport 1" tvg-logo="https://www.bansbo.com/api/table/icon/TrueSport1.png" group-title="SPORT",True Sport 1
-https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="WWENetwork" group-title="SPORT" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
-#EXTINF:-1 tvg-id="True Sport 2" tvg-name="True Sport 2" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2005021UJ80-L.jpg" group-title="SPORT",True Sport 2
-https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel" group-title="SPORT" ch-number="822" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 tvg-id="True Sport 3" tvg-name="True Sport 3" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_Truesport3.jpg" group-title="SPORT",True Sport 3
-https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="PremierSports" group-title="SPORT" ch-number="823" tvg-logo="https://aqfadtv.astradamy.com/logos/PremierSports2021.png",823 Premier Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
-
-#EXTINF:-1 tvg-id="True Tenis" tvg-name="True Tenis" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/16_True-Tennis-HD.jpg" group-title="SPORT",True Tenis 
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="SPORT",NBA 
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1   tvg-id="N/A" group-title="SPORT" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1 
-https://tinyurl.com/2p87eayb
-#https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1   tvg-id="N/A" group-title="SPORT" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2 
-https://tinyurl.com/2s3nxtey
-#https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8   
-
-#EXTINF:-1   tvg-id="N/A" group-title="SPORT" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3 
-https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8 
-
-#EXTINF:-1   tvg-id="N/A" group-title="SPORT" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4 
-https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1   tvg-id="N/A" group-title="SPORT" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
-https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#https://wopep.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="AstroCricket" group-title="SPORT" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astrox Cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest?cb=20180806112549" group-title="SPORT",  Star Sports Select 1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
