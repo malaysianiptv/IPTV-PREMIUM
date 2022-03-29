@@ -565,6 +565,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71144.ts
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
 #EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astrox Aura 
@@ -575,6 +576,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astrox Aura ALT
 #http://urtv.cc:80/454781209544/431009674535/6713
 http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71145.ts
+
 
 #EXTINF:-1 tvg-id="GoShop2" tvg-chno="GoShop2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png" group-title="ASTRO",Go Shop 
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
