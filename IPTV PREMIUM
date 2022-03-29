@@ -574,7 +574,8 @@ http://203.154.243.89:21201/nakhon
 https://link.zozotv.xyz:443/dayah/dayah/155
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 2
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759560.ts
+#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759560.ts
+http://elemento.x10.mx/stream/assp1.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287306
@@ -595,7 +596,8 @@ http://203.154.243.89:21202/nakhon
 https://link.zozotv.xyz:443/dayah/dayah/156
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 2
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759561.ts
+#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759561.ts
+https://www.mireasa-live.com/cdn/premium124/chunks.m3u8
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287305
@@ -616,7 +618,8 @@ http://203.154.243.89:21203/nakhon
 https://link.zozotv.xyz:443/dayah/dayah/157
 
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 2
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759562.ts
+#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759562.ts
+https://www.mireasa-live.com/cdn/premium125/chunks.m3u8
 
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287304
@@ -637,7 +640,8 @@ http://203.154.243.89:21204/nakhon
 https://link.zozotv.xyz:443/dayah/dayah/158
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 2
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759563.ts
+#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759563.ts
+https://www.mireasa-live.com/cdn/premium126/chunks.m3u8
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287303
