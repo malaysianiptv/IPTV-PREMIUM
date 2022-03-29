@@ -578,13 +578,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71145.ts
 
 
+
 #EXTINF:-1 tvg-id="GoShop2" tvg-chno="GoShop2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png" group-title="ASTRO",Go Shop 
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
