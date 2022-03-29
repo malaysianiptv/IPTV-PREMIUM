@@ -382,6 +382,8 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+
+
 #####################################################################################################################################################################
 #########################################################❤️❤️WELCOME TO SR LEGACY CHANNEL❤️❤️######################################################################
 #####################################################################################################################################################################
@@ -395,7 +397,7 @@ window.location = "https://laksa19.github.io/myqr"
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="🇮🇮🇮❤️ SR LEGACY CHANNEL ❤️🇮🇮🇮",SR Legacy TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="🇨🇳 SR LEGACY CHANNEL 🇨🇳",SR Legacy TV
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
@@ -605,8 +607,6 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
 #EXTINF:-1 tvg-id="AstroAwani" ch-number:"AstroAwani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani ALT
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
