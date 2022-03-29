@@ -897,6 +897,7 @@ http://live.flixhub.net/hls/mnx-hd.m3u8
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c626a3022340ea1d7af15e51a118a10:543ce4c3e6139f46c4a95c57ef64f540
 #EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" group-title="DOCUMENTARY" tvg-logo="https://iili.io/1Nn6lV.png",550 National Geographic Wild
