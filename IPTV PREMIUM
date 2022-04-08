@@ -512,18 +512,22 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 http://wanicelife.com:8880/EFLW122114/70NF2GH1/1705
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT
-#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
-https://link.zozotv.xyz:443/1234/1234/340
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=4353
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 3
-http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
+#http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 4
 https://link.zozotv.xyz:443/dayah/dayah/11
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 5
+https://link.zozotv.xyz:443/1234/1234/340
 
 
 
@@ -565,13 +569,14 @@ http://wanicelife.com:8880/EFLW122114/70NF2GH1/1706
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
 https://link.zozotv.xyz:443/1234/1234/35
-http://urtv.cc:80/454781209544/431009674535/6740
+#http://urtv.cc:80/454781209544/431009674535/6740
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 3
-https://tinyurl.com/cdddk2p3
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=733
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 4
 http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
@@ -591,11 +596,13 @@ http://wanicelife.com:8880/EFLW122114/70NF2GH1/71146
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 2
-https://tinyurl.com/mv4sd4t8
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=721
+#https://tinyurl.com/mv4sd4t8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 3
 https://link.zozotv.xyz:443/1234/1234/37
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71146
+#http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 4
 http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
@@ -603,8 +610,9 @@ http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 5
 https://link.zozotv.xyz:443/dayah/dayah/36
 
-
-
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 6
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=6608
 
 
 
