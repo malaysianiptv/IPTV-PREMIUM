@@ -1914,20 +1914,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="MIX CHANNEL", Discovery Turbo 
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-#EXTINF:-1 group-title="MIX CHANNEL" tvg-logo="https://i.ibb.co/Sx63Xj8/afc-logo-png-8.png", beIN Sports AFC 1 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MIX CHANNEL" tvg-logo="https://i.ibb.co/Sx63Xj8/afc-logo-png-8.png", beIN Sports AFC 2 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MIX CHANNEL" tvg-logo="https://i.ibb.co/Sx63Xj8/afc-logo-png-8.png", beIN Sports AFC 3 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
 
 
