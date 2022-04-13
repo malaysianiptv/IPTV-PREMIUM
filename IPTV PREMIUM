@@ -1056,15 +1056,14 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #https://bit.ly/3qXLkot
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 3
-https://bit.ly/3Dy8sPk
+https://link.zozotv.xyz:443/dayah/dayah/272
+#https://bit.ly/3Dy8sPk
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 4
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=733
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 5
-https://link.zozotv.xyz:443/dayah/dayah/272
 
 
 
