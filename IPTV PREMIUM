@@ -945,12 +945,15 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://w.nasvpn.xyz:8080/live/suke/suke/13343.m3u8
 #https://tinyurl.com/47ef5b4z
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1705
-https://bit.ly/3NIt38k
+#https://bit.ly/3NIt38k
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT
-https://nonton.site:8443/1842273725/9237641816/37332
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=4353
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
@@ -963,10 +966,7 @@ https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 4
 https://link.zozotv.xyz:443/dayah/dayah/11
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 5
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=4353
-#https://link.zozotv.xyz:443/1234/1234/340
+
 
 
 
@@ -1000,49 +1000,52 @@ http://wanicelife.com:8880/EFLW122114/70NF2GH1/1701
 
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://w.nasvpn.xyz:8080/live/suke/suke/13344.m3u8 
 #https://tinyurl.com/2s3cksd7
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1706
-https://bit.ly/3J1lMNl
+#https://bit.ly/3J1lMNl
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
-https://bit.ly/3iYmm3N
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#https://bit.ly/3iYmm3N
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 2
-https://bit.ly/3qXLkot
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
+#https://link.zozotv.xyz:443/1234/1234/35
+#http://urtv.cc:80/454781209544/431009674535/6740
+#https://bit.ly/3qXLkot
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 3
 https://bit.ly/3Dy8sPk
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 4
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
-https://nonton.site:8443/1842273725/9237641816/37335
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=733
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 5
 https://link.zozotv.xyz:443/dayah/dayah/272
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 6
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
-#https://link.zozotv.xyz:443/1234/1234/35
-#http://urtv.cc:80/454781209544/431009674535/6740
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 7
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=733
 
 
 
 
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://w.nasvpn.xyz:8080/live/suke/suke/13345.m3u8
 #https://tinyurl.com/bddmddvj
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/71146
-https://bit.ly/3u2e5SW
+#https://bit.ly/3u2e5SW
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
-https://bit.ly/3uVE7GN
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#https://bit.ly/3uVE7GN
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 2
-https://nonton.site:8443/1842273725/9237641816/37407
+https://link.zozotv.xyz:443/dayah/dayah/36
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 3
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
@@ -1055,8 +1058,6 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=6608
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 5
-https://link.zozotv.xyz:443/dayah/dayah/36
 
 
 
@@ -1348,21 +1349,20 @@ https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8|X-Forwarded-For=111.65.47
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="SPORT",Sky Sports Formula One
 https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8|X-Forwarded-For=111.65.47.180
 
-#EXTINF:0 group-title="SPORT" tvg-logo="https://i.imgur.com/oL7I359.png",Bein Sports 1 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://www.mireasa-live.com/cdn/premium91/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
+#EXTINF:-1 tvg-id="818" tvg-name="beIN Sports HD" group-title="SPORT" tvg-logo="https://iili.io/1Nchhl.png",818 beIN Sports 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
-#EXTINF:0 group-title="SPORT" tvg-logo="https://i.imgur.com/A5eirxZ.png",Bein Sports 2 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://www.mireasa-live.com/cdn/premium92/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+#EXTINF:-1 tvg-id="817" tvg-name="beIN Sports 2 HD" group-title="SPORT" tvg-logo="https://iili.io/1NcMkG.png",817 beIN Sport 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default.mpd
 
-#EXTINF:0 group-title="SPORT" tvg-logo="https://i.imgur.com/lHnf0n2.png",Bein Sports 3 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-http://www.mireasa-live.com/cdn/premium93/chunks.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
+#EXTINF:-1 tvg-id="819" tvg-name="beIN Sports 3 HD" group-title="SPORT" tvg-logo="https://iili.io/1NcG7s.png",819 beIN Sport 3 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 
 
@@ -1716,7 +1716,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b732fb1488c37774919ae7b4ab0f8010&key=62d4fdbfee0f22b6b0aaa6db9f8410c6
 #EXTINF:-1 tvg-id="TLC" ch-number="TLC" group-title="KOREA" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-logo.jpg",396 TLC 
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 
@@ -1907,15 +1907,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
 #EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" group-title="CHINESE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",335 CCTV4 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3ea4c2927be12c45780a5f70d8bc9910&key=4a462414f9e35b7e778ef81b9e1b2334
-#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GHA.png" group-title="CHINESE",338 The 58th Golden Horse Awards 
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5062/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8cc914692987662d5beeed2a84ecf10:1ad7af3abe78cece01e7a772dd88a09b
-#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",311 Astro AOD   
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
+#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-title="CHINESE" tvg-logo="https://iili.io/1OtOw7.png",311 Astro AOD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+
+
 
 
 
@@ -1961,8 +1959,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 
 
-
-#EXTINF:-1 tvg-id="CNA" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+#EXTINF:-1 tvg-id="515" tvg-name="CNA HD" group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f812aeae6be5b924a8181b512d5d7910&key=44275884ee394d05081fde395ff6e415
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
