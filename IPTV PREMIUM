@@ -119,11 +119,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-####################################################################################################################################################################
+
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-####################################################################################################################################################################
+
 
 
 
@@ -1004,7 +1004,7 @@ http://w.nasvpn.xyz:8080/live/suke/suke/13343.m3u8
 #https://bit.ly/3NIt38k
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000017229356&ct=17950&tsum=c4fc9360281085f55bf7f6b7da63d9b6
+https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782407
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 2
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -1060,7 +1060,7 @@ http://w.nasvpn.xyz:8080/live/suke/suke/13344.m3u8
 #https://bit.ly/3J1lMNl
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782409
 #https://bit.ly/3iYmm3N
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 2
@@ -1093,7 +1093,7 @@ http://w.nasvpn.xyz:8080/live/suke/suke/13345.m3u8
 #https://bit.ly/3u2e5SW
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
 #https://bit.ly/3uVE7GN
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 2
@@ -1241,7 +1241,7 @@ http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287312
 http://203.154.243.89:21201/nakhon
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT
-https://link.zozotv.xyz:443/dayah/dayah/155
+https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782557
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
@@ -1251,6 +1251,7 @@ http://elemento.x10.mx/stream/assp1.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287306
+https://link.zozotv.xyz:443/dayah/dayah/155
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
 http://wanicelife.com:8880/EFLW122114/70NF2GH1/1722
@@ -1269,7 +1270,7 @@ http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1722
 http://203.154.243.89:21202/nakhon
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT
-https://link.zozotv.xyz:443/dayah/dayah/156
+https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782559
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1279,6 +1280,7 @@ https://www.mireasa-live.com/cdn/premium124/chunks.m3u8
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287305
+https://link.zozotv.xyz:443/dayah/dayah/156
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 4
 http://wanicelife.com:8880/EFLW122114/70NF2GH1/1721
@@ -1326,7 +1328,7 @@ http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1720
 http://203.154.243.89:21204/nakhon
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT
-https://link.zozotv.xyz:443/dayah/dayah/158
+https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782564
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -1336,6 +1338,7 @@ https://www.mireasa-live.com/cdn/premium126/chunks.m3u8
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 3
 http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287303
+https://link.zozotv.xyz:443/dayah/dayah/158
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
 http://wanicelife.com:8880/EFLW122114/70NF2GH1/1719
