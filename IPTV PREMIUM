@@ -2266,9 +2266,6 @@ https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.
 #EXTINF:-1 group-title="JAPAN" tvg-id="NHKWorldPremium" tvg-chno="NHKWorldPremium" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/111_144.png",398 NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF: -1 tvg-id="BloombergTVAsia.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="JAPAN", Bloomberg TV Asia 
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
 #EXTINF: -1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="JAPAN", Bloomberg TV Asia Live Event 
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
