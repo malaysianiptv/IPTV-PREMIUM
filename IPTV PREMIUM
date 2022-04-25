@@ -1376,22 +1376,22 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
 https://xtra.skyforever.tk/TV3.m3u8
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup
 https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup 2
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 2
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup 3
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 3
 http://axcestv.vip:8080/live/freeview/axcestv/624.ts
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup 4
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 4
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup 5
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 5
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
@@ -1431,6 +1431,17 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="MYFREEVIEW",IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NqAMl.png",123 Awesome TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
+#EXTINF:-1 tvg-id="114" tvg-name="TV AL-HIJRAH" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NqqFI.png",114 Al-Hijrah 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
+
 
 
 
@@ -1439,6 +1450,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #####################################################################################################################################################################################
 ####################################################################   ASTRO     ####################################################################################################
 #####################################################################################################################################################################################
+
 
 
 
@@ -1917,6 +1929,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="SPORT" tvg-logo="https://iili.io/1NzIte.png",816 SPOTV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-title="SPORT" tvg-logo="https://iili.io/MkG2hg.png",810 SPOTV2 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
+#EXTINF:-1 tvg-id="800" tvg-name="eGG Network HD" group-title="SPORT" tvg-logo="https://iili.io/1Nxp8N.png",800 eGG Network 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default.mpd
+
+
 
 
 
@@ -2337,7 +2365,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 
 #EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen 
 #https://link.zozotv.xyz:443/shukrisinar/shukrisinar/57
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 
 
@@ -2459,6 +2487,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
+#EXTINF:-1 tvg-id="321" tvg-name="Celestial Classic Movies" group-title="CHINESE" tvg-logo="https://iili.io/1NBjs4.png",321 Celestial Classic Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
+#EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies HD" group-title="CHINESE" tvg-logo="https://iili.io/1NB5zJ.png",309 Celestial Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 
 
@@ -2469,6 +2506,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 #####################################################################################################################################################################################
 ####################################################################   INDONESIA  ###################################################################################################
 #####################################################################################################################################################################################
+
 
 
 
