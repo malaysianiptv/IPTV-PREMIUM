@@ -3196,43 +3196,43 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="MIX CHANNEL",Movies Mix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 group-title="🇮🇳 INDIA" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
+#EXTINF:0 group-title="MIX CHANNEL" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:0 group-title="🇮🇳 INDIA" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", Adhavan TV
+#EXTINF:0 group-title="MIX CHANNEL" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", Adhavan TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-#EXTINF:0 group-title="🇮🇳 INDIA" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil
+#EXTINF:0 group-title="MIX CHANNEL" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="🇮🇳 INDIA",BBO Classic Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="MIX CHANNEL",BBO Classic Movies
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="🇮🇳 INDIA",Box office Bollywood
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="🇮MIX CHANNEL",Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:0, group-title="🇮🇳 INDIA" tvg-logo="http://haritv.com/images/logo.png",HARI TV
+#EXTINF:0, group-title="MIX CHANNEL" tvg-logo="http://haritv.com/images/logo.png",HARI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 
-#EXTINF:0, group-title="🇮🇳 INDIA" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
+#EXTINF:0, group-title="MIX CHANNEL" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 
-#EXTINF:0, group-title="🇮🇳 INDIA" tvg-logo="http://www.tamilvision.tv/Images/logo.png",Tamil Vision TV
+#EXTINF:0, group-title="MIX CHANNEL" tvg-logo="http://www.tamilvision.tv/Images/logo.png",Tamil Vision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
