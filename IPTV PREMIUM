@@ -118,10 +118,14 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
+
+
+
+
+
 
 
 
@@ -2832,8 +2836,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-
-
 #EXTINF:-1 tvg-id="Baby First" tvg-name="Baby First" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="KIDS",Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
 
@@ -2871,6 +2873,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=566e67da543c043f0fe2a5f371412910:0b997dec90bda7dd6f8f16d3fc914b6c
 #EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English HD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",513 Al Jazeera 
@@ -2896,7 +2899,6 @@ https://cdn-livetv-studio.metube.id/inewstv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="NEWS",Berita Satu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2LRcJv/CNN.png" group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -2933,9 +2935,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 
 
+
 #####################################################################################################################################################################################
 ###################################################################  ENTERTAINMENT  #################################################################################################
 #####################################################################################################################################################################################
+
+
 
 
 
@@ -2971,6 +2976,8 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #####################################################################################################################################################################################
 ###################################################################   KOREA   #######################################################################################################
 #####################################################################################################################################################################################
+
+
 
 
 
