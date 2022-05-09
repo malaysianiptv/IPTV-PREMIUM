@@ -118,11 +118,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
+#
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+#
 
 
 
@@ -2498,12 +2498,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="SPORT",Sky Sports Football
-https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8|X-Forwarded-For=111.65.47.180
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="SPORT",Sky Sports Formula One
-https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8|X-Forwarded-For=111.65.47.180
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
 #EXTINF:-1 tvg-id="818" tvg-name="beIN Sports HD" group-title="SPORT" tvg-logo="https://iili.io/1Nchhl.png",818 beIN Sports 
@@ -2534,6 +2528,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
 #EXTINF:-1 tvg-id="800" tvg-name="eGG Network HD" group-title="SPORT" tvg-logo="https://iili.io/1Nxp8N.png",800 eGG Network 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=149b755651a6c538cc23022490331f10&key=f2ddf3cb91d3fd53ac28f990e437146f
+#EXTINF:-1 tvg-id="781" tvg-name="ASSP UHD" group-title="SPORT" tvg-logo="https://iili.io/VNe1g2.png",781 Astrox UHD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default.mpd
+
 
 
 
@@ -3094,6 +3095,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50f975bfac7d0c485fa36d54d2bba610&key=db4f4d75ac6d065e0fa1c0b6400251ab
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-title="CHINESE" tvg-logo="https://iili.io/1NB4Xj.png",333 Astrox Hua Hee Dai 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 
 
@@ -3152,6 +3157,19 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 
 
 
+#####################################################################################################################################################################################
+####################################################################   BRUNEI   #####################################################################################################
+#####################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="RTB Sukmaindera" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b1696000_sleng.m3u8
+
+
+
+
 
 ##################################################################################################################################################################
 ##########################################################   BACKUP CHANNEL - NEED VPN  ##########################################################################
@@ -3162,71 +3180,71 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png",Awesome TV
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9016
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9016
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png",Astrox Ria 
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9031
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9031
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png",Astrox Prima
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6727
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6727
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png",Astrox Warna
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6740
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6740
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png",Astrox Citra 
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/7267
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/7267
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png",Astrox Oasis
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6725
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6725
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png",Astrox Rania
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6729
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6729
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png",Astrox Ceria 
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6715
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6715
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png",Astrox AEC 
-https://link.zozotv.xyz:443/dayah/dayah/60
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6701
+#https://link.zozotv.xyz:443/dayah/dayah/60
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6701
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png",Animax
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6696
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6696
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png",TV-AlHijrah
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6834
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6834
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png",Astrox Arena 
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6707
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6707
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN",ASTRO Arena 2
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9028
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9028
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png",Astrox Supersport 
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6708
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6708
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png",Astrox Supersport ALT
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9024
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9024
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png",Astrox Supersport 2
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6710
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6710
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png",Astrox Supersport 2 ALT
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9025
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9025
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png",Astrox Supersport 3
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6711
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6711
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png",Astrox Supersport 3 ALT
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9020
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9020
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png",Astrox Supersport 4
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6712
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6712
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",Astrox Supersport 4 ALT
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9026
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9026
 
 #EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN",Astrox Supersport 5
-http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9029
+#http://iptv.tvmalaysia.cc:80/454781209544/431009674535/9029
 
 
 
