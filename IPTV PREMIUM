@@ -2097,14 +2097,13 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 2
-http://axcestv.vip:8080/live/freeview/axcestv/624.ts
-
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 4
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="106" group-title="MYFREEVIEW" tvg-logo="https://mediahomes.github.io/logos/tv6.png",106 TV6
@@ -2190,7 +2189,8 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 4
-http://iptv12k.com:35461/80201033004/324542/735
+http://syok.tv:2082/fred/fred/18
+#http://iptv12k.com:35461/80201033004/324542/735
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 5
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -2200,7 +2200,10 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK0202
 http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1705
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 7
-http://iptv12k.com:35461/80201033004/324542/4353
+http://syok.tv:2082/fred/fred/19
+#http://iptv12k.com:35461/80201033004/324542/4353
+
+
 
 
 
@@ -2272,7 +2275,15 @@ http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1706
 http://axcestv.vip:8080/live/freeview/axcestv/648.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 7
-http://iptv12k.com:35461/80201033004/324542/733
+http://syok.tv:2082/fred/fred/23
+#http://iptv12k.com:35461/80201033004/324542/733
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 8
+http://syok.tv:2082/fred/fred/22
+
+
+
+
 
 
 
@@ -2316,7 +2327,8 @@ http://iptv12k.com:35461/8022022301/468985/721
 http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 7
-http://iptv12k.com:35461/80201033004/324542/6608
+http://syok.tv:2082/fred/fred/26
+#http://iptv12k.com:35461/80201033004/324542/6608
 
 
 
@@ -2474,7 +2486,8 @@ http://axcestv.vip:8080/live/freeview/axcestv/787.ts
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 5
 http://axcestv.vip:8080/live/freeview/axcestv/788.ts
 
-
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 6
+http://syok.tv:2082/fred/fred/124
 
 
 
@@ -2505,6 +2518,8 @@ http://axcestv.vip:8080/live/freeview/axcestv/789.ts
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1721
 
 
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 5
+http://syok.tv:2082/fred/fred/125
 
 
 
@@ -2533,6 +2548,9 @@ http://axcestv.vip:8080/live/freeview/axcestv/986.ts
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1720
 #https://link.zozotv.xyz:443/1234/1234/157
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1720
+
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 5
+http://syok.tv:2082/fred/fred/126
 
 
 
@@ -2563,6 +2581,10 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759563.ts
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1719
 #https://link.zozotv.xyz:443/1234/1235/158
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1719
+
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 5
+http://syok.tv:2082/fred/fred/127
+
 
 
 
